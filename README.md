@@ -8,7 +8,7 @@ Reinforcement Learning examples
 
 ## Set up environment locally
 
-To get the correct libraries and versions it is recommended that the provided conda environment is used. To create and activate a bootcomp environment:
+To get the correct libraries and versions it is recommended that the provided conda environment is used. To create and activate a rl_examples environment:
 
 1. Windows -> Open Anaconda prompt. Mac/linux -> Open a terminal
 
@@ -22,7 +22,7 @@ This will fetch and install the libraries in a conda environment 'rl_examples'
     conda activate rl_examples
     
     
-## ReinforcementLearning examples
+## Reinforcement Learning examples
 
 ### Pytorch Deep Learning
 
