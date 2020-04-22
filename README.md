@@ -3,7 +3,7 @@ Reinforcement Learning examples
 
 ## Run on BinderHub:
 
-https://github.com/MichaelAllen1966/2004_reinforcement_learning
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MichaelAllen1966/2004_reinforcement_learning/master)
 
 
 ## Set up environment locally
@@ -16,8 +16,18 @@ To get the correct libraries and versions it is recommended that the provided co
 
 3. Run the following command: conda env create -f environment.yml
 
-This will fetch and install the libraries in a conda environment 'rl'
+This will fetch and install the libraries in a conda environment 'rl_examples'
 
 4. To activate the bootcomp enviroment run the following command:
     conda activate rl_examples
+    
+    
+## ReinforcementLearning examples
+
+### Pytorch Deep Learning
+
+1. Cartpole cross entropy - CPU
+2. Cartpole cross entropy - GPU/CPU
+3. Cartpole Deep Q Network (DQN) - CPU
+4. Cartpole Double Deep Q Network (DDQN) - CPU
     
